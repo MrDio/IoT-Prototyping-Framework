@@ -1,7 +1,8 @@
 # IoT-Prototyping-Framework
-IoT Prototyping Framework for particle photon developed by D. Satikidis, D. Lagamtzis used for academic lectures.
+IoT Prototyping Framework for particle photon developed by Pascal Walter, Vinay Kumar Puligilla and Alisa Jäkle.
 
 
 ---
 
-Special Thanks to the contributers [Džefris Dizdarević](https://github.com/Dzefris), [Hagen Hellinger](https://github.com/bollefreshavocado), [Sebastian Haid](https://github.com/) & [D. Lagamtzis](https://github.com/umadbro96) 
+Special Thanks to the contributers [Vinay Kumar Puligilla](https://github.com/pvk1hyd) and Pascal Walter as well as to our lecturer [M. Sc. Dionysios Satikidis](https://github.com/MrDio).
+
