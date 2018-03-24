@@ -4,5 +4,5 @@ IoT Prototyping Framework for particle photon developed by Pascal Walter, Vinay 
 
 ---
 
-Special Thanks to the contributers [Vinay Kumar Puligilla](https://github.com/pvk1hyd) and Pascal Walter as well as to our lecturer [M. Sc. Dionysios Satikidis](https://github.com/MrDio).
+Special Thanks to the contributers [Vinay Kumar Puligilla](https://github.com/pvk1hyd) and [Pascal Walter](https://github.com/PascalWalter) as well as to our lecturer [M. Sc. Dionysios Satikidis](https://github.com/MrDio).
 
