@@ -1,6 +1,5 @@
-# IoT-Prototyping-Framework
-IoT Prototyping Framework for particle photon developed by Pascal Walter, Vinay Kumar Puligilla and Alisa Jäkle.
-
+# winDOW - detect open window
+An IoT solution based on IoT Prototyping Framework for particle photon developed by Pascal Walter, Vinay Kumar Puligilla and Alisa Jäkle.
 
 ---
 
