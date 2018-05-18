@@ -5,7 +5,7 @@ The aim of this framework is to provide a quick way to develop IoT Applications 
 
 ## Here some of the past projects:
 
-Brunel Univ. Lecture 2018<br>
+Brunel Univ. | Embedded Systems IoT Applications Prototyping 2018<br>
 [winDOW](https://www.hackster.io/dcse-team-a/window-detect-open-window-c2b0b7)<br>
 
 University of Applied Sciences Esslingen | IoT Ecosystems Lecture 2017<br>
