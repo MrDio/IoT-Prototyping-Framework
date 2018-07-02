@@ -1,7 +1,7 @@
 # IoT-Prototyping-Framework
-IoT Prototyping Framework for particle photon developed by D. Satikidis, D. Lagamtzis used for academic lectures.
+IoT Prototyping Framework for [particle photon](https://www.particle.io/) developed by D. Satikidis, D. Lagamtzis used for academic lectures.
 
-The aim of this framework is to provide a quick way to develop IoT Applications in an experimetal way.
+The aim of this framework is to provide a quick way to develop all-in-one IoT platform enabling fast development of IoT Applications in an experimetal way.
 
 ## Here some of the past projects:
 
