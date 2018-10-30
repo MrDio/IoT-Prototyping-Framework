@@ -102,9 +102,9 @@ int IoTEcoSys_NeoPIXEL_Ring::setGlRGB( String color) {
     //ring.Color(0, 0, 255);
   }
   else if(color == "white") {
-    gl_green = 0;
-    gl_red = 0;
-    gl_blue = 0;
+    gl_green = 255;
+    gl_red = 255;
+    gl_blue = 255;
     _ring.Color(gl_green, gl_red, gl_blue, 255); // GRB+W
   }
   else if(color == "off") {
