@@ -37,7 +37,7 @@
  * PHO (D0) - LSM (SDA)
  * PHO (D1) - LSM (SCL)
  * PHO (GND) - LSM (GND)
- * PHO (3V3) - LSM (3V3)
+ * PHO (3V3) - LSM (VIN)
  * 
  * PHO (A1) - LIG (GND)
  * RES (POSITIVE) - LIG (GND)
