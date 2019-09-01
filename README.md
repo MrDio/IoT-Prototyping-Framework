@@ -24,4 +24,4 @@ University of Applied Sciences Esslingen | IoT Ecosystems Lecture 2017/2018<br>
 
 ---
 
-Special Thanks to the contributers [Džefris Dizdarević](https://github.com/Dzefris), [Hagen Hellinger](https://github.com/bollefreshavocado), [Sebastian Haid](https://github.com/) & [D. Lagamtzis](https://github.com/umadbro96) 
+Special Thanks to the contributers [Džefris Dizdarević](https://github.com/Dzefris), [Hagen Hellinger](https://github.com/bollefreshavocado), [Sebastian Haid](https://github.com/) & [D. Lagamtzis](https://github.com/DimiHMC) 
