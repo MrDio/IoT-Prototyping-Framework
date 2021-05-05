@@ -1,5 +1,7 @@
 # IoT-Prototyping-Framework
 
+IoT Prototyping Framework is a part of the Lecture IoT Ecosystems developed by D. Satikidis and JF. Fabriczek and used in academia.
+
 The aim of this framework is to provide a quick way to develop all-in-one IoT platform enabling fast development of IoT Applications in an experimetal way.
 
 Tech Stack
