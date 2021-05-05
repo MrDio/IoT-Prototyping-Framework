@@ -4,10 +4,15 @@ The aim of this framework is to provide a quick way to develop all-in-one IoT pl
 
 Tech Stack
 [Balena.io](https://www.balena.io/)
+
 [Losant.com](https://www.losant.com/)
+
 [NVIDIA Jetson Nano]()
+
 [Arduino BLE 33 Sense]
+
 Intel Realsense 
+
 Sensors
 
 Deploy with Balena
