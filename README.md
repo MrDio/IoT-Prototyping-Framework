@@ -1,9 +1,20 @@
 # IoT-Prototyping-Framework
-IoT Prototyping Framework for [particle photon](https://www.particle.io/) developed by D. Satikidis, D. Lagamtzis used for academic lectures.
 
 The aim of this framework is to provide a quick way to develop all-in-one IoT platform enabling fast development of IoT Applications in an experimetal way.
 
+Tech Stack
+[Balena.io](https://www.balena.io/)
+[Losant.com](https://www.losant.com/)
+[NVIDIA Jetson Nano]()
+[Arduino BLE 33 Sense]
+Intel Realsense 
+Sensors
+
+Deploy with Balena
+
 ## Here some of the past projects:
+
+-Update-
 
 University of Applied Sciences Esslingen | IoT Ecosystems Lecture 2018/2019<br>
 
@@ -23,5 +34,8 @@ University of Applied Sciences Esslingen | IoT Ecosystems Lecture 2017/2018<br>
 
 
 ---
+# Credits
+2018 - 2021
+IoT Prototyping Framework for [particle photon](https://www.particle.io/) developed by D. Satikidis, D. Lagamtzis used for academic lectures.
 
 Special Thanks to the contributers [Džefris Dizdarević](https://github.com/Dzefris), [Hagen Hellinger](https://github.com/bollefreshavocado), [Sebastian Haid](https://github.com/) & [D. Lagamtzis](https://github.com/DimiHMC) 
