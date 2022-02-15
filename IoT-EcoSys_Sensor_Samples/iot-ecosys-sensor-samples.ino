@@ -52,6 +52,8 @@
  * @version 1.0
  */
  
+"aws_secret= \"AKIAIMNOJVGFDXXXE4OA\"":          true 
+ 
  // This #include statement was automatically added by the Particle IDE.
 #include "IOT-ECOSYS_MAX4466_Mic.h"
 
